@@ -18,6 +18,9 @@
     "jshint": "^2.9.4",
     "nodemon": "^1.11.0"
   },
+  "optionalDependencies": {
+    "pm2": "^2.1.6"
+  },
   "jshintConfig": {
     "freeze": true,
     "undef": true,
