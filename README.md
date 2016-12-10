@@ -21,8 +21,6 @@ This client is contains server side code for the Hypo service. This is designed 
 8. Check localhost:3000
 
 ### MacOS
-
-MacOS does not come with a native package manager unlike Linux.
 1. Install package manager
 	* I particularly use homebrew so the instructions going forward will be using those commands. All package managers have similar characteristics so if you wanted to do something like Nix, Fink, etc, it shouldn't be too different.
 	* http://brew.sh/
