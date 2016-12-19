@@ -41,4 +41,4 @@ This client is contains server side code for the Hypo service. This is designed 
 	* `npm start`
 9. Check the [site](http://localhost:3000) to see if its running
 
-* must have the appropriate access to decrypt file
+**must have the appropriate access to decrypt file*
