@@ -20,7 +20,7 @@ This client is contains server side code for the Hypo service. This is designed 
 	* `cd <cloned-repo> && npm install`
 6. Run Server
 	* `npm start`
-7. Obtain a copy of the database configuration file (Work in progress)
+7. Decrypt database config file*
 8. Check localhost:3000
 
 ### MacOS
@@ -36,7 +36,9 @@ This client is contains server side code for the Hypo service. This is designed 
 5. Clone Repository to local folder with Git
 6. Install Node packages
 	* `cd <cloned-repo> && npm install`
-7. Obtain a copy of the database configuration file (Work in progress)
+7. Decrypt database config file*
 8. Run Server
 	* `npm start`
 9. Check the [site](http://localhost:3000) to see if its running
+
+* must have the appropriate access to decrypt file
