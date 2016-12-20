@@ -12,7 +12,7 @@ def parse_arguments():
 	parser.add_argument('-t', '--table', help='table name to create', required=True)
 	parser.add_argument('-f', '--file', help='csv file and path (/path/to/file.csv)', required=True)
 	parser.add_argument('-c', '--config', help='config file and path (/path/to/config.json)', default='../config/config.json')
-	parser.add_argument('-m', '--mode', help='write mode (default fails)', default='fail')
+	parser.add_argument('-m', '--mode', help='write mode (default fails)', choices=['fail','replace','append'], default='fail')
 	parser.add_argument('-d', '--default', help='default for null values')
 	parser.add_argument('-e', '--environment', help='environment', default="development")
 	parser.add_argument('-n', '--number', help='push number records')
