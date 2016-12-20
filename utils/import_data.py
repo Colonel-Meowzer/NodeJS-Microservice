@@ -1,5 +1,7 @@
 #!/home/dustin/anaconda2/bin/python
-
+'''
+	This script requires sqlalchemy and pandas libraries to be installed. Install them with pip or anaconda.
+'''
 import argparse
 import json
 
