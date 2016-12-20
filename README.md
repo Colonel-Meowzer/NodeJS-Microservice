@@ -11,7 +11,6 @@ This client is contains server side code for the Hypo service. This is designed 
 1. Install NodeJs
 	* `sudo apt install nodejs; apt install nodejs-legacy`
 2. Install npm
-
 	* `sudo apt install npm`
 3. Install Git
 	* `sudo apt install git`
@@ -25,7 +24,6 @@ This client is contains server side code for the Hypo service. This is designed 
 
 ### MacOS
 1. Install package manager
-
 	* I particularly use [homebrew](http://brew.sh/) so the instructions going forward will be using those commands. All package managers have similar characteristics so if you wanted to do something like Nix, Fink, etc, it shouldn't be too different.
 2. Install Node
 	* `brew install nodejs`
