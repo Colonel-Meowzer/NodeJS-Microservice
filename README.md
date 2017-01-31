@@ -1,9 +1,9 @@
 
 Test git push :)
 
-#Hypo (Server client)
+#NodeJS Client
 ## Introduction
-This client is contains server side code for the Hypo service. This is designed to be a fully functional RESTful API that provides microservices to the Hypo User client.
+This client is contains server side code. This is designed to be a fully functional RESTful API that provides microservices.
 
 ## Installation Instructions
 
